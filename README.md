@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+-[Visite o projeto onLine](https://rodrigoribeiroleo.github.io/habits/)
+
 
 ## 🔖 Layout
 
